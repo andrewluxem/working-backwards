@@ -1,0 +1,24 @@
+{
+  "name": "working-backwards",
+  "version": "1.0.0",
+  "owner": {
+    "name": "Andrew Luxem"
+  },
+  "description": "Static agent skill for writing and auditing PR/FAQ working-backwards documents with customer evidence and explicit open questions.",
+  "plugins": [
+    {
+      "name": "working-backwards",
+      "version": "1.0.0",
+      "source": "./",
+      "description": "Working Backwards PR/FAQ, PR/FAQ Audit. Static: no network calls, no remote fetch, no auto-update. Version-pinned.",
+      "category": "productivity",
+      "tags": [
+        "agent-skills",
+        "claude-code",
+        "pr-faq",
+        "product-planning",
+        "skill-md"
+      ]
+    }
+  ]
+}

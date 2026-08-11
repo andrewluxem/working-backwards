@@ -1,0 +1,18 @@
+{
+  "name": "working-backwards",
+  "version": "1.0.0",
+  "description": "Static agent skill for writing and auditing PR/FAQ working-backwards documents with customer evidence and explicit open questions. Static: no network calls, no remote fetch, no auto-update.",
+  "author": {
+    "name": "Andrew Luxem"
+  },
+  "homepage": "https://github.com/andrewluxem/working-backwards",
+  "repository": "https://github.com/andrewluxem/working-backwards",
+  "license": "MIT",
+  "keywords": [
+    "agent-skills",
+    "claude-code",
+    "pr-faq",
+    "product-planning",
+    "skill-md"
+  ]
+}
